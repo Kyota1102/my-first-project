@@ -1,2 +1,2 @@
 name = "Kyota"
-print("Hello World")
+print("Hello World " + name)
